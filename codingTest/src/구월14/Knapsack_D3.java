@@ -1,3 +1,5 @@
+package 구월14;
+
 import java.util.Scanner;
 
 public class Knapsack_D3 {
