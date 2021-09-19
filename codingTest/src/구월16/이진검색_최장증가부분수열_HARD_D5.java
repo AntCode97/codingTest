@@ -3,7 +3,7 @@ package 구월16;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 최장증가부분수열_HARD_D5 {
+public class 이진검색_최장증가부분수열_HARD_D5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
