@@ -2,7 +2,7 @@ package 구월16;
 
 import java.util.Scanner;
 
-public class 최장증가부분수열_D3 {
+public class DP_최장증가부분수열_D3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T;

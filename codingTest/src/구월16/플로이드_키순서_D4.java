@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class 키순서_D4 {
+public class 플로이드_키순서_D4 {
     static int INF = 100000;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
