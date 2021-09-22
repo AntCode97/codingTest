@@ -1,3 +1,5 @@
+package 코테;
+
 public class KAKAO3 {
     public int solution(int n, int k) {
         int answer = -1;
