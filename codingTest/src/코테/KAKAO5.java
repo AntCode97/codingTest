@@ -1,8 +1,7 @@
-import 팔월23.bfs;
+package 코테;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.StringTokenizer;
 
 public class KAKAO5 {
     static int N;
