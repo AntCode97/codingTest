@@ -1,3 +1,5 @@
+package 코테;
+
 import java.util.*;
 
 public class KAKAO1 {
