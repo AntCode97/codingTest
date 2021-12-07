@@ -1,3 +1,5 @@
+package 구월14;
+
 import java.util.Scanner;
 
 public class DP3_KnapsackTest {

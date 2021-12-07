@@ -1,3 +1,4 @@
+package 구월14;
 
 public class 막대색칠하기 {
 	public static void main(String args[]){

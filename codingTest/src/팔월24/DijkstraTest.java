@@ -34,7 +34,6 @@ public class DijkstraTest {
 		
 		Arrays.fill(distance, INFINITY);
 		distance[start] = 0;
-		
 		int min=0, current=0;
 		for(int i=0; i<V; ++i){
 			//a단계 : 방문하지 않은 정점들 중 최소가중치의 정점 선택
