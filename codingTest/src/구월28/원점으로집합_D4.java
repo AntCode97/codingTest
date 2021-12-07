@@ -30,18 +30,17 @@ public class 원점으로집합_D4 {
             }
             if(cnt) {
                 System.out.println("#"+test_case+" " + -1);
-                break;
+                continue;
             }
 
             int count =0;
             boolean done = true;
             int sum=0;
             while (true){
-                done = true;
-                if(sum < maxV ||(maxV -sum) %2 !=0){
-                    done = false;
-                }
-                if(done) break;
+
+                if(sum >= maxV && sum %2 == rest)
+                   break;
+
                 sum += ++count;
             }
             System.out.println("#"+test_case + " " +count);
