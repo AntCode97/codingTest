@@ -21,12 +21,7 @@ public class Solution5 {
                 return Integer.compare(Math.abs(o2), Math.abs(o1));
             }
         });
-        PriorityQueue<Integer> wait = new PriorityQueue<>(new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return Integer.compare(Math.abs(o2), Math.abs(o1));
-            }
-        });
+
         for (int i=0;i<N;i++){
             queue.add(Integer.parseInt(br.readLine()));
         }
