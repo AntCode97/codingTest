@@ -1,4 +1,4 @@
-package y2021.m12d30;
+package y2021.코테.이베이;
 
 public class Solution4 {
 

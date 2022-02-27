@@ -1,4 +1,4 @@
-package y2021.m12d29;
+package y2021.코테.네이버;
 
 public class Solution4 {
 // 문제 설명
